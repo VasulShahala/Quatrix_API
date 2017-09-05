@@ -1,0 +1,9 @@
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\obj\Debug\Quatrix_API.csprojResolveAssemblyReference.cache
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\obj\Debug\Quatrix_API.Form1.resources
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\obj\Debug\Quatrix_API.Properties.Resources.resources
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\obj\Debug\Quatrix_API.csproj.GenerateResource.Cache
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\bin\Debug\Quatrix_API.exe.config
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\bin\Debug\Quatrix_API.exe
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\bin\Debug\Quatrix_API.pdb
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\obj\Debug\Quatrix_API.exe
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\Quatrix_API\Quatrix_API\obj\Debug\Quatrix_API.pdb
